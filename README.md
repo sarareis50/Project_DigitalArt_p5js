@@ -3,6 +3,8 @@
 ##  Project Description
 This is an interactive artistic project that explores the deconstruction of digital imagery through algorithmic painting. The program transforms static photographs and real-time video feed (Webcam) into fluid compositions, utilizing Perlin noise to simulate the organic behavior of brushstrokes.
 
+**Live Project:** [Try it on p5.js Web Editor](https://editor.p5js.org/SaraAndrade/full/lVGQwFCsD)
+
 ---
 
 ##  How to Use & Navigate
@@ -28,3 +30,4 @@ This is an interactive artistic project that explores the deconstruction of digi
 * **Author:** Sara Andrade
 * **Course Unit:** Sistemas Multimédia Interativos (DWM)
 * **Date:** April 2026
+
